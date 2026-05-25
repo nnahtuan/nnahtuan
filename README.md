@@ -24,13 +24,13 @@
 
 <div align="center">
 
-<a href="(https://portfolio-three-pi-99.vercel.app/)">
+<a href="https://portfolio-three-pi-99.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="mailto:(nguyenahhtuanwork0901@gmail.com)">
+<a href="mailto:nguyenanhtuanwork0901@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="(https://www.facebook.com/annhtuan.nguyen.96)">
+<a href="https://www.facebook.com/annhtuan.nguyen.96">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
@@ -119,8 +119,8 @@ A movie ticket booking web application focused on movie listing, booking flow, u
 
 **Tech:** React, TailwindCSS, Node.js, Express.js, Database
 
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/nnahtuan/QuickShow))
-[![Live Demo](https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white)]((https://quickshow-client-silk-seven.vercel.app/))
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nnahtuan/QuickShow)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://quickshow-client-silk-seven.vercel.app/)
 
 ---
 
@@ -130,8 +130,8 @@ A fullstack car rental application with frontend, backend, database, authenticat
 
 **Tech:** React, Node.js, Express.js, MongoDB/MySQL, RESTful API
 
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/nnahtuan/Car-Rental-fullstack))
-[![Live Demo](https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white)]((https://car-rental-sigma-taupe.vercel.app/))
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nnahtuan/Car-Rental-fullstack)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://car-rental-sigma-taupe.vercel.app/)
 
 ---
 
@@ -141,8 +141,8 @@ A personal portfolio website introducing my skills, education, projects, experie
 
 **Tech:** React, TailwindCSS, Animation, Responsive UI
 
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/nnahtuan/portfolio))
-[![Live Demo](https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white)]((https://portfolio-three-pi-99.vercel.app/))
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nnahtuan/portfolio)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-three-pi-99.vercel.app/)
 
 ---
 
@@ -235,13 +235,13 @@ My goal is to combine:
 
 <div align="center">
 
-<a href="mailto:(nguyenanhtuanwork0901@gmail.com)">
+<a href="mailto:nguyenanhtuanwork0901@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="(https://portfolio-three-pi-99.vercel.app/)">
+<a href="https://portfolio-three-pi-99.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit_Website-020617?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="(https://www.facebook.com/annhtuan.nguyen.96)">
+<a href="https://www.facebook.com/annhtuan.nguyen.96">
   <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
